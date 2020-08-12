@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/duel-monsters/static/css/main.24c2c93a.chunk.css",
+    "main.js": "/duel-monsters/static/js/main.689a2a86.chunk.js",
+    "main.js.map": "/duel-monsters/static/js/main.689a2a86.chunk.js.map",
+    "runtime-main.js": "/duel-monsters/static/js/runtime-main.0b2658d4.js",
+    "runtime-main.js.map": "/duel-monsters/static/js/runtime-main.0b2658d4.js.map",
+    "static/js/2.516f0e5c.chunk.js": "/duel-monsters/static/js/2.516f0e5c.chunk.js",
+    "static/js/2.516f0e5c.chunk.js.map": "/duel-monsters/static/js/2.516f0e5c.chunk.js.map",
+    "index.html": "/duel-monsters/index.html",
+    "precache-manifest.8f9ab482f332f842683f4435a5cab4c5.js": "/duel-monsters/precache-manifest.8f9ab482f332f842683f4435a5cab4c5.js",
+    "service-worker.js": "/duel-monsters/service-worker.js",
+    "static/css/main.24c2c93a.chunk.css.map": "/duel-monsters/static/css/main.24c2c93a.chunk.css.map",
+    "static/js/2.516f0e5c.chunk.js.LICENSE.txt": "/duel-monsters/static/js/2.516f0e5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b2658d4.js",
+    "static/js/2.516f0e5c.chunk.js",
+    "static/css/main.24c2c93a.chunk.css",
+    "static/js/main.689a2a86.chunk.js"
+  ]
+}
